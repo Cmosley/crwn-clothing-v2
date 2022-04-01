@@ -1,4 +1,5 @@
 const App = () => {
+  
   return (
     <div className='categories-container'>
       <div className='category-container'>
